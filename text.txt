@@ -1,3 +1,0 @@
-feature one done
-feature two done
-feature three in progress
